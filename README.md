@@ -1,5 +1,5 @@
 
-[![Fatjan GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Fatjan GitHub Banner](https://github.com/Paloja2017/Paloja2017/blob/main/32154.jpg)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Paloja2017/Paloja2017)](https:Paloja2017)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatjan-paloja/)
