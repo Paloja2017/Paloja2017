@@ -1,6 +1,11 @@
 
 [My banner] (https://github.com/Paloja2017/Paloja2017/commit/1690a600c3ae591183ad5be29a60436d218facf0.gif)
 
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
 ### Hi there 👋
 
 I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Intelligence Reporting and over 7 years’ experience with PowerBI, resolving customer complaints and managing full project PowerBI life-cycle activities. Skilled in analyzing data from a variety of sources and using Data Visualization tools to communicate insights to stakeholders in diverse industries. Proven track record of using data-driven insights to drive business decisions and improve strategical, informational, and operational efficiency
