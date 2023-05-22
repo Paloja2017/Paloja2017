@@ -1,7 +1,7 @@
 
 ![Fatjan GitHub Banner](https://github.com/Paloja2017/Paloja2017/blob/main/My%20Banner.PNG)
-[Visits Badge](https://badges.pufler.dev/visits/Paloja2017/Paloja2017)] (https:Paloja2017)
 
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/Paloja2017)](https:Paloja2107.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatjan-paloja/)
 
 
