@@ -17,7 +17,7 @@ I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Inte
 </br>
 
 ### Skills
-![](https://img.shields.io/badge/Software-PowerBI-informational?style=flat=css3&logoColor=white&color=fdc500)
+![](https://img.shields.io/badge/Software-PowerBI-informational?style=flat=css3&logoColor=white&color=fdc500)](https://www.novypro.com/profile_projects/fatjanpaloja)
 ![](https://img.shields.io/badge/Software-PowerBI_Report_Server-informational?style=flat=css3&logoColor=white&color=003049)
 ![](https://img.shields.io/badge/Software-PowerPivot-informational?style=flat=Tailwind-CSS&logoColor=white&color=245501)
 ![](https://img.shields.io/badge/Software-SQL_Server-informational?style=flat=Sass&logoColor=white&color=003566)
