@@ -20,7 +20,7 @@ I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Inte
 [![](https://img.shields.io/badge/Software-PowerBI-informational?style=flat=css3&logoColor=white&color=fdc500)](https://powerbi.microsoft.com/en-cy/)
 [![](https://img.shields.io/badge/Software-PowerBI_Report_Server-informational?style=flat=css3&logoColor=white&color=003049)](https://powerbi.microsoft.com/en-us/report-server/)
 [![](https://img.shields.io/badge/Software-PowerPivot-informational?style=flat=Tailwind-CSS&logoColor=white&color=245501)](https://support.microsoft.com/en-us/office/power-pivot-overview-and-learning-f9001958-7901-4caa-ad80-028a6d2432ed)
-![](https://img.shields.io/badge/Software-SQL_Server-informational?style=flat=Sass&logoColor=white&color=003566)
+[![](https://img.shields.io/badge/Software-SQL_Server-informational?style=flat=Sass&logoColor=white&color=003566)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 ![](https://img.shields.io/badge/Software-SQL_Server_Analysis_Services-informational?style=flat=Sass&logoColor=white&color=0466c8)
 ![](https://img.shields.io/badge/Software-SQL_Server_Reporting_Services-informational?style=flat=Stylus&logoColor=white&color=9e2a2b)
 ![](https://img.shields.io/badge/Software-VisualStudio-informational?style=flat=Stylus&logoColor=white&color=4a0a77)
