@@ -4,7 +4,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Paloja2017/Paloja2017)](https://github.com/Paloja2017/Paloja2017/graphs/traffic)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatjan-paloja/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/FatjanPaloja)
-[![NovyPro Badge](https://img.shields.io/badge/NovyPro-Portfolio-informational?style=flat&logo=novypro&logoColor=white&color=6e44ff)](https://twitter.com/FatjanPaloja)
+[![NovyPro Badge](https://img.shields.io/badge/NovyPro-Portfolio-informational?style=flat&logo=novypro&logoColor=white&color=6e44ff)](https://www.novypro.com/profile_projects/fatjanpaloja))
 
 
 ### Hi there 👋
