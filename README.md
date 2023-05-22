@@ -1,5 +1,5 @@
 
-[My banner] (https://github.com/Paloja2017/Paloja2017/commit/1690a600c3ae591183ad5be29a60436d218facf0)
+[My banner] (https://github.com/Paloja2017/Paloja2017/commit/1690a600c3ae591183ad5be29a60436d218facf0.gif)
 
 ### Hi there 👋
 
