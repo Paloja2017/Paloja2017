@@ -22,7 +22,7 @@ I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Inte
 ![](https://img.shields.io/badge/Software-DaxStudio-informational?style=flat=Stylus&logoColor=white&color=4AB197)
 
 
-![](https://img.shields.io/badge/CodeLanguage-Mashup-informational?style=flat=angular&logoColor=white&color=4AB197)
+###![](https://img.shields.io/badge/CodeLanguage-Mashup-informational?style=flat=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CodeLanguage-DAX-informational?style=flat=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CodeLanguage-SQL-informational?style=flat=react&logoColor=white&color=4AB197)
 
