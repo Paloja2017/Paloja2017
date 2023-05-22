@@ -34,7 +34,7 @@ I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Inte
 </a>
 
 <a href="https://github.com/Paloja2017">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fatjan's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Paloja2017&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fatjan's GitHub Stats" />
 </a>
 
 
