@@ -24,13 +24,13 @@ I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Inte
 [![](https://img.shields.io/badge/Software-SQL_Server_Analysis_Services-informational?style=flat=Sass&logoColor=white&color=0466c8)](https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions)
 [![](https://img.shields.io/badge/Software-SQL_Server_Reporting_Services-informational?style=flat=Stylus&logoColor=white&color=9e2a2b)](https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16)
 [![](https://img.shields.io/badge/Software-VisualStudio-informational?style=flat=Stylus&logoColor=white&color=4a0a77)](https://visualstudio.microsoft.com/)
-![](https://img.shields.io/badge/Software-TabularEditor-informational?style=flat=Stylus&logoColor=white&color=2a9134)
-![](https://img.shields.io/badge/Software-DaxStudio-informational?style=flat=Stylus&logoColor=white&color=00509d)
+[![](https://img.shields.io/badge/Software-TabularEditor-informational?style=flat=Stylus&logoColor=white&color=2a9134)](https://tabulareditor.com/)
+[![](https://img.shields.io/badge/Software-DaxStudio-informational?style=flat=Stylus&logoColor=white&color=00509d)](https://daxstudio.org/)
 </br>
 </br>
-![](https://img.shields.io/badge/CodeLanguage-Mashup-informational?style=flat=angular&logoColor=white&color=ffd60a)
-![](https://img.shields.io/badge/CodeLanguage-DAX-informational?style=flat=ionic&logoColor=white&color=ffd60a)
-![](https://img.shields.io/badge/CodeLanguage-SQL-informational?style=flat=react&logoColor=white&color=ffd60a)
+[![](https://img.shields.io/badge/CodeLanguage-Mashup-informational?style=flat=angular&logoColor=white&color=ffd60a)](https://learn.microsoft.com/en-us/powerquery-m/)
+[![](https://img.shields.io/badge/CodeLanguage-DAX-informational?style=flat=ionic&logoColor=white&color=ffd60a)](https://learn.microsoft.com/en-us/dax/)
+[![](https://img.shields.io/badge/CodeLanguage-SQL-informational?style=flat=react&logoColor=white&color=ffd60a)](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16)
 
 
 
