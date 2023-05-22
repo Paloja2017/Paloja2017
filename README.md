@@ -22,7 +22,7 @@ I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Inte
 [![](https://img.shields.io/badge/Software-PowerPivot-informational?style=flat=Tailwind-CSS&logoColor=white&color=245501)](https://support.microsoft.com/en-us/office/power-pivot-overview-and-learning-f9001958-7901-4caa-ad80-028a6d2432ed)
 [![](https://img.shields.io/badge/Software-SQL_Server-informational?style=flat=Sass&logoColor=white&color=003566)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![](https://img.shields.io/badge/Software-SQL_Server_Analysis_Services-informational?style=flat=Sass&logoColor=white&color=0466c8)](https://learn.microsoft.com/en-us/analysis-services/ssas-overview?view=asallproducts-allversions)
-![](https://img.shields.io/badge/Software-SQL_Server_Reporting_Services-informational?style=flat=Stylus&logoColor=white&color=9e2a2b)
+[![](https://img.shields.io/badge/Software-SQL_Server_Reporting_Services-informational?style=flat=Stylus&logoColor=white&color=9e2a2b)](https://learn.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver16)
 ![](https://img.shields.io/badge/Software-VisualStudio-informational?style=flat=Stylus&logoColor=white&color=4a0a77)
 ![](https://img.shields.io/badge/Software-TabularEditor-informational?style=flat=Stylus&logoColor=white&color=2a9134)
 ![](https://img.shields.io/badge/Software-DaxStudio-informational?style=flat=Stylus&logoColor=white&color=00509d)
