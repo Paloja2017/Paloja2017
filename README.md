@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatjan-paloja/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/FatjanPaloja)
 [![NovyPro Badge](https://img.shields.io/badge/NovyPro-Portfolio-informational?style=flat&logo=novypro&logoColor=white&color=6e44ff)](https://www.novypro.com/profile_projects/fatjanpaloja)
-[![My Resume](https://img.shields.io/badge/CV-My Resume-informational?style=flat&logo=novypro&logoColor=white&color=6e44ff)](https://www.novypro.com/profile_projects/fatjanpaloja)
+[![My Resume](https://img.shields.io/badge/CV-My_Resume-informational?style=flat&logo=novypro&logoColor=white&color=6e44ff)](https://www.novypro.com/profile_projects/fatjanpaloja)
 
 
 ### Hi there 👋
