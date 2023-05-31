@@ -15,7 +15,7 @@ I'm Fatjan, Power BI Developer with over 8+ years’ experience in Business Inte
 Want to know more about me ? Check out my portfolio (in progress!) 
 </br>
 </br>
-### GitHb Stats
+### GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paloja2017&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="paloja2017" /></p>
 </br>
 
