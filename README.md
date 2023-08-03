@@ -7,6 +7,7 @@
 [![NovyPro Badge](https://img.shields.io/badge/NovyPro-Portfolio-informational?style=flat&logo=novypro&logoColor=white&color=6e44ff)](https://www.novypro.com/profile_projects/fatjanpaloja)
 [![My Resume](https://img.shields.io/badge/CV-My_Resume-informational?style=flat&logo=novypro&logoColor=white&color=780000)](https://github.com/Paloja2017/Paloja2017/blob/main/Fatjan%20Paloja%20Resume.pdf)
 [![Repos Badge](https://badges.pufler.dev/repos/paloja2017)](https://github.com/Paloja2017?tab=repositories)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/paloja2017)](https://badges.pufler.dev)
 
 
 
