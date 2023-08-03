@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/FatjanPaloja)
 [![NovyPro Badge](https://img.shields.io/badge/NovyPro-Portfolio-informational?style=flat&logo=novypro&logoColor=white&color=6e44ff)](https://www.novypro.com/profile_projects/fatjanpaloja)
 [![My Resume](https://img.shields.io/badge/CV-My_Resume-informational?style=flat&logo=novypro&logoColor=white&color=780000)](https://github.com/Paloja2017/Paloja2017/blob/main/Fatjan%20Paloja%20Resume.pdf)
-
+[![Contributors Display](https://badges.pufler.dev/contributors/pujux/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
 
 
 
