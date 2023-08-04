@@ -18,7 +18,7 @@ I'm Fatjan, Power BI Developer with over 9+ years’ experience in Business Inte
 Want to know more about me ? Check out my portfolio (in progress!) 
 </br>
 </br>
-[![Taxis Company](https://img.shields.io/badge/%20Project-Taxis%20Power%20BI%20Report-ffbe0b?labelColor=7B88BF&style=flat&logo=PowerBI&logoColor=Yellow)](https://github.com/Paloja2017/Taxi_Data_Report/edit/main/README.md)
+[![Taxis Company](https://img.shields.io/badge/%20Project-Taxis%20Power%20BI%20Report-ffbe0b?labelColor=7B88BF&style=flat&logo=PowerBI&logoColor=Yellow)](https://github.com/Paloja2017/Taxi_Data_Report/tree/main)
 </br>
 </br>
 ### GitHub Stats
