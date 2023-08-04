@@ -15,7 +15,10 @@
 
 I'm Fatjan, Power BI Developer with over 9+ years’ experience in Business Intelligence Reporting and over 7 years’ experience with PowerBI, resolving customer complaints and managing full project PowerBI life-cycle activities. Skilled in analyzing data from a variety of sources and using Data Visualization tools to communicate insights to stakeholders in diverse industries. Proven track record of using data-driven insights to drive business decisions and improve strategical, informational, and operational efficiency 
 
-Want to know more about me ? Check out my portfolio (in progress!) 
+Want to know more about me ? 
+</br>
+</br>
+Check out my portfolio (in progress!) :
 </br>
 </br>
 [![Taxis Company](https://img.shields.io/badge/%20Project-Taxis%20Power%20BI%20Report-ffbe0b?labelColor=7B88BF&style=flat&logo=PowerBI&logoColor=Yellow)](https://github.com/Paloja2017/Taxi_Data_Report/tree/main)
