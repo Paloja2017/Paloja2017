@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-Paloja2107&label=PROFILE+VIEWS)
+
 
 ![Fatjan GitHub Banner](https://github.com/Paloja2017/Paloja2017/blob/main/My%20Banner.PNG)
 
