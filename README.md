@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Paloja2107&label=PROFILE+VIEWS)
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
 ![Fatjan GitHub Banner](https://github.com/Paloja2017/Paloja2017/blob/main/My%20Banner.PNG)
 
 [![Visitors](https://img.shields.io/badge/GitHub-Visitors-informational?style=flat&logo=novypro&logoColor=white&color=25a244)](https://github.com/Paloja2017/Paloja2017/watchers)
