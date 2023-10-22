@@ -24,6 +24,7 @@ Check out my portfolio (in progress!) :
 </br>
 [![Taxis Company](https://img.shields.io/badge/%20Project-Taxis%20Power%20BI%20Report-ffbe0b?labelColor=7B88BF&style=flat&logo=PowerBI&logoColor=Yellow)](https://github.com/Paloja2017/Taxi_Data_Report/tree/main)
 </br>
+</br>
 [![Taxis Company](https://img.shields.io/badge/%20Project-Taxis%20Power%20BI%20Report-ffbe0b?labelColor=7B88BF&style=flat&logo=PowerBI&logoColor=Yellow)](https://github.com/Paloja2017/Taxi_Data_Report/tree/main)
 </br>
 </br>
