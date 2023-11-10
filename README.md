@@ -26,7 +26,8 @@ Check out my portfolio :
 </br>
 </br>
 [![UFC Fights Report](https://img.shields.io/badge/%20Project-UFC%20Fights%20BI%20Report-25a244?labelColor=7B88B&style=flat&logo=PowerBI&logoColor=Yellow)]
-(https://github.com/Paloja2017/UFC-Public-Power-BI-Report/tree/main)
+(https://github.com/Paloja2017/Taxi_Data_Report/tree/main)
+
 </br>
 </br>
 
