@@ -25,7 +25,8 @@ Check out my portfolio :
 [![Taxis Company](https://img.shields.io/badge/%20Project-Taxis%20Power%20BI%20Report-ffbe0b?labelColor=7B88BF&style=flat&logo=PowerBI&logoColor=Yellow)](https://github.com/Paloja2017/Taxi_Data_Report/tree/main)
 </br>
 </br>
-[![UFC Fights Report](https://img.shields.io/badge/%20Project-UFC%20Fights%20BI%20Report-25a244?labelColor=7B88B&style=flat&logo=PowerBI&logoColor=Yellow)](https://app.powerbi.com/view?r=eyJrIjoiNDFkYjQ1MWEtODAwZS00ZDhkLTliMTgtMDQ0NDMyYzI1MDc4IiwidCI6ImIzMDFhNzU5LTgzNmUtNDY4OS1iMzg5LThjMWU0ZTc1NWRjZCIsImMiOjl9&pageName=ReportSection99f5c648835745ec5eb7)
+[![UFC Fights Report](https://img.shields.io/badge/%20Project-UFC%20Fights%20BI%20Report-25a244?labelColor=7B88B&style=flat&logo=PowerBI&logoColor=Yellow)]
+(https://github.com/Paloja2017/UFC-Public-Power-BI-Report)
 </br>
 </br>
 ### GitHub Stats
