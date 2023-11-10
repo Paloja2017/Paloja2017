@@ -26,9 +26,10 @@ Check out my portfolio :
 </br>
 </br>
 [![UFC Fights Report](https://img.shields.io/badge/%20Project-UFC%20Fights%20BI%20Report-25a244?labelColor=7B88B&style=flat&logo=PowerBI&logoColor=Yellow)]
-[(https://github.com/Paloja2017/UFC-Public-Power-BI-Report)]
+(https://github.com/Paloja2017/UFC-Public-Power-BI-Report/tree/main)
 </br>
 </br>
+
 ### GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paloja2017&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="paloja2017" /></p>
 </br>
